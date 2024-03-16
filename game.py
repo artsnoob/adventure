@@ -1,7 +1,7 @@
 import openai
 
 # Initialize the OpenAI API client
-openai.api_key = 'x'
+openai.api_key = 'ADD YOUR OWN GPT API HERE'
 
 def generate_adventure(session_messages):
     """
